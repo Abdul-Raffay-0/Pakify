@@ -1,0 +1,17 @@
+{
+  "name": "pakify",
+  "version": "0.0.0",
+  "description": "A Pure Nodejs HTTP and Web Framework. Everything is implemented in vanilla. No dependencies whatsoever!",
+  "main": "main.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdul-Raffay-0/Pakify.git"
+  },
+  "author": "Abdul Raffay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abdul-Raffay-0/Pakify/issues"
+  },
+  "homepage": "https://github.com/Abdul-Raffay-0/Pakify#readme"
+}
